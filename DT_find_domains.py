@@ -1,9 +1,8 @@
 # -*- coding: utf-8 -*-
 """
 Use Domain Tools API to find all domains (currently registered and previously registered) with keyword
-
-*usefulf for finding typoquats & brand-jackers
-
+Useful for finding typoquats & brand-jackers
+*need Domain Tools username and API key
 
 """
 
